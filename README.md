@@ -174,3 +174,34 @@ puts x.to_f
 Imagine that you take the code from this question, save it to a file called ``numbers.rb``, and run ``ruby numbers.rb`` in your Terminal. 
 
 What would be the output? Explain your answer. 
+
+# Terminal/Bash Questions
+
+## Question 15
+
+What command outputs my current directory?
+
+
+## Question 16
+
+What command outputs a listing of all files and directories in the current directory?
+
+
+## Question 17
+
+How can I change to my home directory?
+
+
+## Question 18
+
+How can I rename the file named `question.txt` to `answer.txt`?
+
+
+## Question 19
+
+How can I delete a directory named `wrong` in the current directory context including all its contents and subdirectories?
+
+## Question 20
+
+How can I allow it so that anyone can read, write and execute the file called `virus.sh`?
+
