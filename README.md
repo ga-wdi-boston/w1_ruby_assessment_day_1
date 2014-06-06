@@ -1,6 +1,6 @@
 # Ruby Assessment
 
-Email the answers to this assessment to tibbon@gmail.com
+Email your answers to: alex.grant@generalassemb.ly
 
 ## Question 1
 
@@ -93,7 +93,7 @@ end
 
 Imagine that you take the code from this question, save it to a file called ``sushi.rb``, and run ``ruby sushi.rb`` in your Terminal. 
 
-What would be the output?) Explain your answer. 
+What would be the output? Explain your answer. 
 
 ## Question 9 
 
@@ -199,9 +199,8 @@ How can I rename the file named `question.txt` to `answer.txt`?
 
 ## Question 19
 
-How can I delete a directory named `wrong` in the current directory context including all its contents and subdirectories?
+How can I delete a directory named `wrong` within my current directory, including all its contents and subdirectories?
 
 ## Question 20
 
 How can I allow it so that anyone can read, write and execute the file called `virus.sh`?
-
